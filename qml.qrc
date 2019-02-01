@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MyScene.qml</file>
+        <file>main.qml</file>
+        <file>test.jpg</file>
+    </qresource>
+</RCC>
